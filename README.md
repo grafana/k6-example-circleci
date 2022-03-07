@@ -1,5 +1,4 @@
-# Automated k6 load testing with CircleCI
-This is an example repo for how to setup k6 with CircleCI to build load testing into an automation flow.
 
-The full guide describing how to use this repository is located at:
-https://k6.io/blog/integrating-load-testing-with-circleci/
+⚠ ️ This setup is currently deprecated.
+
+Check out the new instructions using the new [k6 Orb](https://circleci.com/developer/orbs/orb/grafana/k6) at [k6-example-circleci-orb](https://github.com/grafana/k6-example-circleci-orb).
